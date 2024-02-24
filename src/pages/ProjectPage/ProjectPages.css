@@ -1,0 +1,20 @@
+.headProject {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+.titles {
+    width: 80vw;
+    align-items: center;
+    text-align: center;
+}
+
+.flecheretour {
+    object-fit: cover;
+    width: 3rem;
+    cursor: pointer;
+    margin: 1rem 2rem 0 5rem;
+}

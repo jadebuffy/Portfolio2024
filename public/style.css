@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background: #F2E2C4;
+    color: #260801;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+h2, h3 {
+    font-family: "chelsea-market-pro", sans-serif;
+    font-weight: 200;
+}
